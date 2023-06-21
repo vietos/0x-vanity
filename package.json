@@ -1,0 +1,12 @@
+{
+  "name": "0xvanity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "cli-progress": "^3.12.0",
+    "ethers": "^5",
+    "pixl-server-storage": "^3.1.8"
+  }
+}
